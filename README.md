@@ -25,7 +25,7 @@ A Streamlit-based web application that uses Google's Generative AI (Gemini) to h
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sophyia7/resume-ai-assistant 
 ```
 
 2. Create and activate a virtual environment:
