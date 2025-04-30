@@ -1,1 +1,1 @@
-web: streamlit run app.py --server.port=$PORT --server.enableCORS=false --config.toml=.streamlit/config.toml
+web: streamlit run app.py --server.port=$PORT
