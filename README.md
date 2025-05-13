@@ -72,7 +72,7 @@ streamlit run app.py
 
 ## Environment Variables
 
-- `GOOGLE_API_KEY`: Your Google API key for accessing the Gemini model
+- `GEMINI_API_KEY`: Your Google API key for accessing the Gemini model
 
 ## Dependencies
 
