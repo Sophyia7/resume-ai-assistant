@@ -72,7 +72,7 @@ def main():
                     
                     with download_col1:
                         st.download_button(
-                            label="📄 Download as TXT",
+                            label="📄 Download as TXT (Not Available YET!)",
                             data=resume_draft,
                             file_name=f"{job_title.lower().replace(' ', '_')}_resume.txt",
                             mime="text/plain",
